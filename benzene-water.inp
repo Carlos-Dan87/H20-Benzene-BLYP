@@ -1,0 +1,5 @@
+%PAL NPROCS 8 END
+!BLYP sv(p) D3 opt
+%geom MaxIter 250
+end
+*xyzfile 0 1 prueba.xyz
